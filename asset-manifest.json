@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lp-padrao/static/css/main.073c9b0a.css",
+    "main.js": "/lp-padrao/static/js/main.b6f9ea5e.js",
+    "static/js/787.7d07e197.chunk.js": "/lp-padrao/static/js/787.7d07e197.chunk.js",
+    "static/media/logo.svg": "/lp-padrao/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lp-padrao/index.html",
+    "main.073c9b0a.css.map": "/lp-padrao/static/css/main.073c9b0a.css.map",
+    "main.b6f9ea5e.js.map": "/lp-padrao/static/js/main.b6f9ea5e.js.map",
+    "787.7d07e197.chunk.js.map": "/lp-padrao/static/js/787.7d07e197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b6f9ea5e.js"
+  ]
+}
